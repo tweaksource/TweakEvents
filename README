@@ -1,0 +1,13 @@
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Author: Brett marshall
+Email: brett@tweaksource.com
+
+TweakEvent is a simple Php / MySQL script that:
+1. Creates a MySQL database table for storing events and users
+2. Includes user authentication, adding categories, adding events, editing events, and deleting events.
+3. Generates a calendar of the current month displaying the appropriate events.
+
+To Do:
+Clean up code
+Color-code by category
+
